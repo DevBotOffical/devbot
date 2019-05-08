@@ -1,2 +1,2 @@
 # devbot
-Das ist er Surce vom DevBot.
+Das ist der Source Code vom DevBot.
